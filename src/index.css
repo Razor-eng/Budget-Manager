@@ -637,7 +637,7 @@ table a {
     border-collapse: collapse;
   }
   :where(.modeBtn) {
-    background-color: black;
+    background-color: #1f263b;
     padding: var(--space-xs) var(--space-sm);
     border: 0.3px solid #36454f;
     padding: 6px;
