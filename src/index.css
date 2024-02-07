@@ -622,7 +622,7 @@ table a {
     box-shadow: 0.25em 0.3em 1em aliceblue;
   }
   thead {
-    background-color: transparent;
+    background-color: #36454f;
   }
   tr:nth-child(odd) {
     background-color: transparent;
