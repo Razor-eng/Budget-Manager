@@ -631,10 +631,9 @@ table a {
     border: 1px solid;
   }
   table {
-    width: 100%;
-  }
-  table {
     border-collapse: collapse;
+    background-color: #36454f;
+    width: 100%;
   }
   :where(.modeBtn) {
     background-color: #1f263b;
